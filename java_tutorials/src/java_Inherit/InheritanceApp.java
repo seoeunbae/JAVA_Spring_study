@@ -17,7 +17,7 @@ class Cal3 extends Cal{
         super(v1, v2);
         System.out.println("Cal3 init!!");
     }
-    public int minus(){return this.v1-v2;}
+    public int minus(){return this.v1-this.v2;}
 
 }
 

@@ -25,9 +25,9 @@ public class WhyMethod {
         fw.write(text+"\n");
         fw.close();
 
-    }
+    }                       //parameter,매개변수
     public static void main(String[] args) throws IOException {
-
+                        //인자,arguments
         printTwoTimes("A", "-");
         System.out.println(twoTimes("a","-"));
 

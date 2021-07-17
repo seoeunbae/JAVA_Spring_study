@@ -1,14 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02b9ed58-d1cf-4dce-813e-9b2ddcefa96b" name="Default Changelist" comment="" />
+    <list default="true" id="02b9ed58-d1cf-4dce-813e-9b2ddcefa96b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Algorithms/greedy/BAEKJOON_동전0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA/src/chap04/Excercise03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA/src/chap04/Excercise06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA/src/chap05/Excercise07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20183329_BSE/TP-waterpark/.vs/TP-waterpark/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20183329_BSE/TP-waterpark/.vs/TP-waterpark/v16/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20183329_BSE/TP-waterpark/.vs/TP-waterpark/v16/Browse.VC.db-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20183329_BSE/TP-waterpark/.vs/TP-waterpark/v16/Browse.VC.db-wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20183329_BSE/TP-waterpark/.vs/TP-waterpark/v16/Browse.VC.opendb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20183329_BSE/TP-waterpark/.vs/TP-waterpark/v16/ipch/AutoPCH/cce45d6695af5e88/TP-WATERPARK.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20183329_BSE/TP-waterpark/TP-waterpark.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20183329_BSE/chap3-HW/20.09.17-chap3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20183329_BSE/chap3-HW/chap.3(p.128)/Car.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20183329_BSE/chap3-HW/chap.3(p.128)/Car.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20183329_BSE/chap3-HW/chap.3(p.128)/RacingMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20183329_BSE/chap3-HW/chap.3(p.132)/CarInline.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20183329_BSE/chap3-HW/chap.3(p.132)/CarInline.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20183329_BSE/chap3-HW/chap.3(p.132)/RacingInlineMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20201589_PHB/20201589_PHB.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20203120_LSK/20203120_LSK.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/.idea/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/.metadata/.idea/.metadata.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/java_tutorials/src/java_method/FirstMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/java_tutorials/src/java_method/WhyMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/src/chap04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/src/chap04/Excercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA/src/chap04/Excercise07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_tutorials/src/java_Inherit/InheritanceApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_tutorials/src/java_Inherit/InheritanceApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_tutorials/src/java_method/WhyMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_tutorials/src/java_method/WhyMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_tutorials/src/java_method/staticMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_tutorials/src/java_method/staticMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_study/.idea/Java_study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_study/This_is_JAVA/chap.02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/data2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/java_tutorials.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_Inherit/Cal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_Inherit/Cal3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_Inherit/InheritanceApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_OOP/Accounting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_OOP/AccountingApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_OOP/Foo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_OOP/MyOOP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_OOP/OthersOOP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_OOP/Print.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_OOP/StaticApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_method/AccessLevelModifiersMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_method/AccountingApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_method/FirstMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_method/Greeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_method/OutputMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_method/Print.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_method/WhyMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/out/production/java_tutorials/java_method/staticMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/src/java_Inherit/InheritanceApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/src/java_OOP/AccountingApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/src/java_OOP/MyOOP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/src/java_OOP/OthersOOP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/src/java_OOP/Print.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/src/java_OOP/StaticApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/src/java_method/AccessLevelModifiersMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/src/java_method/AccountingApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/src/java_method/FirstMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/src/java_method/OutputMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/src/java_method/WhyMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_tutorials/src/java_method/staticMethod.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vCWgLpmQfImfVYFMtYclSIPr9L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,8 +101,33 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hello-spring/hello-spring" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Spring_Study/hello-spring/hello-spring/src/main/resources/static/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,7 +137,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626066665248</updated>
-      <workItem from="1626066666888" duration="314000" />
+      <workItem from="1626066666888" duration="627000" />
+      <workItem from="1626146228361" duration="2608000" />
+      <workItem from="1626157135572" duration="94000" />
+      <workItem from="1626356213368" duration="271000" />
+      <workItem from="1626402024181" duration="1827000" />
+      <workItem from="1626431954479" duration="176000" />
     </task>
     <servers />
   </component>
