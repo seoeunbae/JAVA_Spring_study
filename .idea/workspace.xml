@@ -101,7 +101,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hello-spring/hello-spring" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hello-spring" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -109,17 +109,6 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Spring_Study/hello-spring/hello-spring/src/main/resources/static/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -143,6 +132,8 @@
       <workItem from="1626356213368" duration="271000" />
       <workItem from="1626402024181" duration="1827000" />
       <workItem from="1626431954479" duration="176000" />
+      <workItem from="1626527823083" duration="262000" />
+      <workItem from="1626528276824" duration="38000" />
     </task>
     <servers />
   </component>
