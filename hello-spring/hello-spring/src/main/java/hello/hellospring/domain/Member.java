@@ -1,5 +1,8 @@
 package hello.hellospring.domain;
 
+import javax.persistence.*;
+
+@Entity
 public class Member {
 
     public Long getId() {
@@ -17,8 +20,10 @@ public class Member {
     public void setName(String name) {
         this.name = name;
     }
-
+    @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;//시스템이 정하는 id,구분하기위한한
+
+    @Column
     private String name;
 
 }
